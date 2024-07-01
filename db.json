@@ -240,8 +240,10 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "name": "COMBO BẮP NƯỚC DEADPOOL",
+      "image": "images/Deadpoo3.png",
+      "timestart": "27/05/2024",
+      "timeend": "01/08/2024",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -249,8 +251,32 @@
     },
     {
       "id": 1,
-      "name": "Weekend Grand Buffet",
+      "name": "COMBO KẺ TRỘM MẶT TRANG 4 MINION SIÊU PHÀM",
       "image":"images/1-17152181565191729175138.png",
+      "timestart": "03/06/2024",
+      "timeend": "01/10/2024",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    },
+       {
+      "id": 2,
+      "name": "COMBO PHIM MỚI SẮP RA MẮT",
+      "image":"images/Phimnhat.jpg",
+      "timestart": "03/04/2024",
+      "timeend": "10/10/2024",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    },
+       {
+      "id": 3,
+      "name": "ƯU ĐÃI GIÁ SỐC 60-65K TẠI LOTTE CINEMA THỦ ĐỨC",
+      "image":"images/1-17152181565191729175138.png",
+      "timestart": "08/08/2024",
+      "timeend": "10/10/2024",
       "label": "New",
       "price": "19.99",
       "featured": true,
